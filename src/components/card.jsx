@@ -1,3 +1,5 @@
+/* The code is a React component called "Card" that displays a list of cars with filtering and
+pagination functionality. */
 import { useState } from "react";
 import Cars from "../data/Car_data.json";
 import { Link } from "react-router-dom";
